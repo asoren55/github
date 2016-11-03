@@ -1,2 +1,6 @@
 added txt
+<<<<<<< HEAD
 vdvdvd
+=======
+addedby raz.
+>>>>>>> refs/remotes/origin/master
