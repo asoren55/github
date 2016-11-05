@@ -12,5 +12,6 @@
 30
 g
 j
+added txt from branch iss1
 
 
