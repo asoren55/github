@@ -9,10 +9,7 @@
 12
 20
 22
-<<<<<<< HEAD
 Hello i want to be revert 1
-=======
->>>>>>> parent of 5286d40... commit 1
 30
 g
 j
